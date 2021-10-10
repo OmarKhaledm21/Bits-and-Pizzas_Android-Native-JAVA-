@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Java/Bits_and_Pizzas/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Java/Bits_and_Pizzas/app/src/main/res/layout/activity_order.xml" value="0.33" />
+        <entry key="..\:/Java/Bits_and_Pizzas/app/src/main/res/layout/card_captioned_image.xml" value="0.1" />
+        <entry key="..\:/Java/Bits_and_Pizzas/app/src/main/res/layout/fragment_pasta.xml" value="0.13055555555555556" />
+        <entry key="..\:/Java/Bits_and_Pizzas/app/src/main/res/layout/fragment_pizza.xml" value="0.13055555555555556" />
         <entry key="..\:/Java/Bits_and_Pizzas/app/src/main/res/layout/fragment_top.xml" value="0.33" />
         <entry key="..\:/Java/Bits_and_Pizzas/app/src/main/res/layout/toolbar_main.xml" value="0.35260416666666666" />
         <entry key="..\:/Java/Bits_and_Pizzas/app/src/main/res/menu/menu_main.xml" value="0.5" />
